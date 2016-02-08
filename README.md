@@ -45,7 +45,7 @@ https://www.facebook.com/postitapp
 ##### Facebookevent
 https://www.facebook.com/events/505927936198733/
 
-##### (LÄNKA INTE) Gammal sida
+##### (LÄNKA INTE) (INTE TILLÅTET ATT ANVÄNDA MATERIAL) Gammal sida
 http://2015.postitapp.se/
 
 http://2015.postitapp.se/summary.html
@@ -99,20 +99,17 @@ En A4 Plansch i färg. Skriv gärna ut och häng upp där det passar.
 
 PDF:
 
-[![thumbnail for plansch](https://raw.githubusercontent.com/PostITapp/material2016/master/thumbnails/planscha4.jpg)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/plansch/planschA4.pdf)
+[![thumbnail for plansch](https://raw.githubusercontent.com/PostITapp/material2016/master/plansch/thumbnails/planscha4.jpg)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/plansch/planschA4.pdf)
 
 ## Bilder
+#### <a name="pictures-facebook"></a>Facebook anpassade bilder
+[![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/solsidan.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/solsidan.png)
 
-#### <a name="pictures-advertisement"></a>Marknadsföringsbilder
-[![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/resultatbild.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/resultatbild.png)
+[![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/thumbnails/resultatbild.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/resultatbild.png)
 
-[![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/solsidan.jpg)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/solsidan.jpg)
+[![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/thumbnails/smallgroup.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/smallgroup.png)
 
-[![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/xxx.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/xxx.png)
-
-[![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/xxx.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/xxx.png)
-
-[![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/xxx.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/xxx.png)
+[![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/thumbnails/xxx.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/FacebookBildSvensk.png)
 
 #### <a name="pictures-logo"></a>Logotyper
 
