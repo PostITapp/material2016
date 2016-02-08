@@ -47,6 +47,7 @@ https://www.facebook.com/events/505927936198733/
 
 ##### (LÄNKA INTE) Gammal sida
 http://2015.postitapp.se/
+
 http://2015.postitapp.se/summary.html
 
 
@@ -70,11 +71,11 @@ Här återfinns texter för marknadsföringssyften.
 ### <a name="text-shorttext"></a>Kort text
 
 Går du i gymnasiet och undrar hur enkelt det egentligen är att utveckla en app?
-Kom till Lindholmen den 4 april och testa själv!
+Kom till Lindholmen den 11 april och testa själv!
 
-### <a name="text-longertext"></a>Längre text2
+### <a name="text-longertext"></a>Längre text
 
-Hur bygger man en app med bara Post it-lappar och kreativitet? Studenterna bakom PostIT-app arrangerar för andra året i rad en heldag för gymnasieelever, där ni får testa på att utveckla appar. Den 4 april lär vi er tricken som får folk att verkligen vilja använda era appar, och sedan får ni skapa era alldeles egna. Hur då? Med Post it-lappar såklart, precis som proffsen! Kolla in vår hemsida så får du veta mer!
+Hur bygger man en app med bara Post it-lappar och kreativitet? Studenterna bakom PostIT-app arrangerar för andra året i rad en heldag för gymnasieelever, där ni får testa på att utveckla appar. Den 11 april lär vi er tricken som får folk att verkligen vilja använda era appar, och sedan får ni skapa era alldeles egna. Hur då? Med Post it-lappar såklart, precis som proffsen! Kolla in vår hemsida så får du veta mer!
 
 ### <a name="text-eventtext"></a>Vår event text
 Har du någonsin undrat hur man skapar en app? Det börjar med en idé, därefter handlar det oftast om att förmedla sin idé till arbetskamrater och användare.
@@ -84,6 +85,7 @@ Vi lär er hur man går tillväga och vad man bör tänka på när man tar fram 
 Detta är ett event för alla tjejer och killar som går på gymnasiet.
 
 Låter det intressant? Bjud in dina vänner och besök:
+
 www.postitapp.se
 
 Mer information finns på hemsidan.
@@ -102,6 +104,15 @@ PDF:
 ## Bilder
 
 #### <a name="pictures-advertisement"></a>Marknadsföringsbilder
+[![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/resultatbild.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/resultatbild.png)
+
+[![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/solsidan.jpg)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/solsidan.jpg)
+
+[![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/xxx.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/xxx.png)
+
+[![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/xxx.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/xxx.png)
+
+[![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/xxx.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/xxx.png)
 
 #### <a name="pictures-logo"></a>Logotyper
 
