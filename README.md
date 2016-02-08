@@ -36,7 +36,7 @@ Post IT app ska inte vara en teknisk workshop
 
 Post IT app ska vara enkelt och tillgängligt
 
-## <a name="links"></a>Länkar
+## Länkar
 
 ##### Eventsida
 http://www.postitapp.se
@@ -57,7 +57,7 @@ Nedan återfinns texter för Post IT app eventet.
 ### Förklarande texter
 Här finns texter som har en förklarande disposition
 
-#### <a name="text-aboutday"></a>Om dagen
+#### Om dagen
 
 Post IT app är en praktisk workshop för gymnasietjejer och killar i Göteborg. Eleverna får lära sig hur man skapar idéer som tilltalar en specifik användare och hur man sedan kommunicerar detta till andra i form av en pappersprototyp.
 
@@ -68,16 +68,16 @@ Post IT app är ett studentinitiativ på Göteborgs Universitet.  Studentorganis
 ##  Reklam
 Här återfinns texter för marknadsföringssyften.
 
-### <a name="text-shorttext"></a>Kort text
+### Kort text
 
 Går du i gymnasiet och undrar hur enkelt det egentligen är att utveckla en app?
 Kom till Lindholmen den 11 april och testa själv!
 
-### <a name="text-longertext"></a>Längre text
+### Längre text
 
 Hur bygger man en app med bara Post it-lappar och kreativitet? Studenterna bakom PostIT-app arrangerar för andra året i rad en heldag för gymnasieelever, där ni får testa på att utveckla appar. Den 11 april lär vi er tricken som får folk att verkligen vilja använda era appar, och sedan får ni skapa era alldeles egna. Hur då? Med Post it-lappar såklart, precis som proffsen! Kolla in vår hemsida så får du veta mer!
 
-### <a name="text-eventtext"></a>Vår event text
+### Vår event text
 Har du någonsin undrat hur man skapar en app? Det börjar med en idé, därefter handlar det oftast om att förmedla sin idé till arbetskamrater och användare.
 
 Vi lär er hur man går tillväga och vad man bör tänka på när man tar fram en app. Utan användningen av en dator, det krävs inte ens programmeringsförkunskaper.
@@ -94,7 +94,7 @@ Post IT app arrangeras av studenter på Göteborgs Universitet!
 
 ## Plansch (PDF)
 
-## <a name="plansch-a4"></a>Ljus A4 Plansch
+## Ljus A4 Plansch
 En A4 Plansch i färg. Skriv gärna ut och häng upp där det passar.
 
 PDF:
@@ -102,7 +102,7 @@ PDF:
 [![thumbnail for plansch](https://raw.githubusercontent.com/PostITapp/material2016/master/images/plansch/thumbnails/planscha4.jpg)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/plansch/planschA4.pdf)
 
 ## Bilder
-#### <a name="pictures-facebook"></a>Facebook anpassade bilder
+#### Facebook anpassade bilder
 [![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/thumbnails/solsidan.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/solsidan.png)
 
 [![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/thumbnails/resultatbild.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/resultatbild.png)
@@ -111,7 +111,7 @@ PDF:
 
 [![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/thumbnails/FacebookBildSvensk.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/FacebookBildSvensk.png)
 
-#### <a name="pictures-logo"></a>Logotyper
+#### Logotyper
 ![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/logo/postitapp-justtext-whiteborder.png)
 ![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/logo/logowide1250x416.png)
 ![Wide logo black and white](https://raw.githubusercontent.com/PostITapp/material2016/master/images/logo/logowide1250x416bw.png)
