@@ -28,9 +28,13 @@ Post IT app vill motivera och engagera ungdomar genom att introducera de till IT
 
 
 ##### Mål
-Post IT app strävar efter en jämn könsfördelning och jobbar extensivt för att uppnå detta.
+Post IT app strävar efter en jämn könsfördelning och jobbar extensivt för att uppnå detta
 
-Post IT app vill skapa förutsättningar och lärdomar för ungdomar.
+Post IT app vill skapa förutsättningar och lärdomar för ungdomar
+
+Post IT app ska inte vara en teknisk workshop
+
+Post IT app ska vara enkelt och tillgängligt
 
 ## <a name="links"></a>Länkar
 
