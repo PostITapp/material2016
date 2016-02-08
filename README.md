@@ -19,7 +19,7 @@ Innehåll:
 ### <a name="plansch-a4"></a>A4 Plansch
 En A4 Plansch i färg. Skriv gärna ut och häng upp där det passar.
 
-[![h](https://raw.githubusercontent.com/PostITapp/material2016/master/thumbnails/plansch/planscha4.jpg)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/plansch/planscha4.pdf) (PDF)
+[![h](https://raw.githubusercontent.com/PostITapp/material2016/master/thumbnails/planscha4.jpg)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/plansch/planscha4.pdf) (PDF)
 
 ## Bilder
 
