@@ -13,7 +13,7 @@ Innehåll:
 - Plansch
   - [A4 Plansch](#plansch-a4)
 - Bilder
-  - [Marknadsföringsbilder](#pictures-advertisement)
+  - [Marknadsföringsbilder](#pictures-facebook)
   - [Logotyper](#pictures-logo)
 
 ## Viktigt/Guide
@@ -94,7 +94,7 @@ Post IT app arrangeras av studenter på Göteborgs Universitet!
 
 ## Plansch (PDF)
 
-## <a name="plansch-a4-portrait-light"></a>Ljus A4 Plansch
+## <a name="#plansch-a4"></a>Ljus A4 Plansch
 En A4 Plansch i färg. Skriv gärna ut och häng upp där det passar.
 
 PDF:
