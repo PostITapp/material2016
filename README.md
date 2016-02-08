@@ -99,7 +99,7 @@ En A4 Plansch i färg. Skriv gärna ut och häng upp där det passar.
 
 PDF:
 
-[![thumbnail for plansch](https://raw.githubusercontent.com/PostITapp/material2016/master/plansch/thumbnails/planscha4.jpg)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/plansch/planschA4.pdf)
+[![thumbnail for plansch](https://raw.githubusercontent.com/PostITapp/material2016/master/images/plansch/thumbnails/planscha4.jpg)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/plansch/planschA4.pdf)
 
 ## Bilder
 #### <a name="pictures-facebook"></a>Facebook anpassade bilder
