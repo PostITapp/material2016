@@ -19,11 +19,11 @@ Innehåll:
 ### <a name="plansch-a4"></a>A4 Plansch
 En A4 Plansch i färg. Skriv gärna ut och häng upp där det passar.
 
-[Ladda ner.](https://raw.githubusercontent.com/PostITapp/material2016/master/images/plansch/planschA4.pdf)
+[![h](https://raw.githubusercontent.com/PostITapp/material2016/master/thumbnails/plansch/planscha4.jpg)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/plansch/planscha4.pdf) (PDF)
 
 ## Bilder
 
 ### Logotyper
-![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/logo/logolong1250x416.png)
-![Wide logo black and white](https://raw.githubusercontent.com/PostITapp/material2016/master/images/logo/postitapp-trans-rect.png)
+![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/logo/logowide1250x416.png)
+![Wide logo black and white](https://raw.githubusercontent.com/PostITapp/material2016/master/images/logo/logowide1250x416bw.png)
 ![Square logo](https://raw.githubusercontent.com/PostITapp/material2016/master/images/logo/postitapp-trans-square.png)
