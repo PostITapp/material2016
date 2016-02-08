@@ -4,17 +4,17 @@ Innehåll:
 - [Länkar](#links)
 - Texter
   - Förklarande texter
-    - [Om dagen](#text-aboutday)
-    - [Om organisationen](#text-aboutorganisation)
+    - [Om dagen](#om-dagen)
+    - [Om organisationen](#om-organisationen)
   - Reklam
-    - [Kort text](#text-shorttext)
-    - [Lång text](#text-shorttext)
-    - [Vår event text](#text-eventtext)    
+    - [Kort text](#kort-text)
+    - [Lång text](#längre-text)
+    - [Vår event text](#vår-event-text)    
 - Plansch
-  - [A4 Plansch](#plansch-a4)
+  - [A4 Plansch](#ljus-a4-plansch)
 - Bilder
-  - [Marknadsföringsbilder](#pictures-facebook)
-  - [Logotyper](#pictures-logo)
+  - [Marknadsföringsbilder](#facebook-anpassade-bilder)
+  - [Logotyper](#logotyper)
 
 ## Viktigt/Guide
 Nedan återfinns material för Post IT app 2016. Ni kan ladda ner zip-fil med allt material i menyn längst upp på sidan.
@@ -61,7 +61,7 @@ Här finns texter som har en förklarande disposition
 
 Post IT app är en praktisk workshop för gymnasietjejer och killar i Göteborg. Eleverna får lära sig hur man skapar idéer som tilltalar en specifik användare och hur man sedan kommunicerar detta till andra i form av en pappersprototyp.
 
-#### <a name="text-aboutorganisation"></a>Om organisationen
+#### Om organisationen
 
 Post IT app är ett studentinitiativ på Göteborgs Universitet.  Studentorganisationerna Sysomatic och Skip tar med hjälp av Datatjej ett event för gymnasieelever för att lyfta fram kreativitet och syftar till att skapa motivation.
 
@@ -92,9 +92,9 @@ Mer information finns på hemsidan.
 
 Post IT app arrangeras av studenter på Göteborgs Universitet!
 
-## <a name="#plansch-a4"></a>Plansch (PDF)
+## Plansch (PDF)
 
-## <a name="#plansch-a4"></a>Ljus A4 Plansch
+## <a name="plansch-a4"></a>Ljus A4 Plansch
 En A4 Plansch i färg. Skriv gärna ut och häng upp där det passar.
 
 PDF:
