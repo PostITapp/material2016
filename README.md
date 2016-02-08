@@ -103,16 +103,16 @@ PDF:
 
 ## Bilder
 #### <a name="pictures-facebook"></a>Facebook anpassade bilder
-[![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/solsidan.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/solsidan.png)
+[![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/thumbnails/solsidan.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/solsidan.png)
 
 [![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/thumbnails/resultatbild.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/resultatbild.png)
 
 [![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/thumbnails/smallgroup.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/smallgroup.png)
 
-[![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/thumbnails/xxx.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/FacebookBildSvensk.png)
+[![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/thumbnails/FacebookBildSvensk.png)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/advertisement/FacebookBildSvensk.png)
 
 #### <a name="pictures-logo"></a>Logotyper
-
+![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/logo/postitapp-justtext-whiteborder.png)
 ![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/logo/logowide1250x416.png)
 ![Wide logo black and white](https://raw.githubusercontent.com/PostITapp/material2016/master/images/logo/logowide1250x416bw.png)
 ![Wide logo yellow outline](https://raw.githubusercontent.com/PostITapp/material2016/master/images/logo/logowide1250x416yo.png)
