@@ -1,29 +1,95 @@
 # Post IT App, marknadsföringsmaterial
 
 Innehåll:
+- Länkar
 - Texter
- - [Om dagen](#text-aboutday)
- - [Om organisationen](#text-aboutorganisation)
+ - Förklarande texter
+   - [Om dagen](#text-aboutday)
+   - [Om organisationen](#text-aboutorganisation)
+ - Reklam
+   - [Kort text](#text-shorttext)
+   - [Lång text](#text-shorttext)
+   - [Vår event text](#text-eventtext)    
 - Plansch
  - [A4 Plansch](#plansch-a4)
+- Bilder
+- Logotyper
+
+## Viktigt/Guide
+Nedan återfinns material för Post IT app 2016.
+
+##### Motivation
+Post IT app vill motivera och engagera ungdomar genom att introducera de till IT. Vi vill göra detta till elever som inte redan är insatta i IT. Genom att introducera de till ett koncept de är vana vid, appar, lär vi de hur idéer skapas och kommuniceras fram på ett enkelt och avskalat sätt.
+
+##### Vision
+Post IT app strävar efter en jämn könsfördelning och jobbar extensivt för att uppnå detta.
+
+## Länkar
+
+##### Eventsida
+http://www.postitapp.se
+##### Facebooksida
+https://www.facebook.com/postitapp
+##### Facebookevent
+https://www.facebook.com/events/505927936198733/
+
+##### (LÄNKA INTE) Gammal sida
+http://2015.postitapp.se/
+http://2015.postitapp.se/summary.html
+
+
 ## Texter
+Nedan återfinns texter för Post IT app eventet.
 
-### <a name="text-aboutday"></a> Om dagen
+### Förklarande texter
+Här finns texter som har en förklarande disposition
 
-    POST IT APP
+#### <a name="text-aboutday"></a> Om dagen
 
-### <a name="text-aboutorganisation"></a>Om organisationen
+Post IT app är en praktisk workshop för gymnasietjejer och killar i Göteborg. Eleverna får lära sig hur man skapar idéer som tilltalar en specifik användare och hur man sedan kommunicerar detta till andra i form av en pappersprototyp.
 
-## Plansch
+#### <a name="text-aboutorganisation"></a>Om organisationen
 
-### <a name="plansch-a4"></a>A4 Plansch
+Post IT app är ett studentinitiativ på Göteborgs Universitet.  Studentorganisationerna Sysomatic och Skip tar med hjälp av Datatjej ett event för gymnasieelever för att lyfta fram kreativitet och syftar till att skapa motivation.
+
+##  Reklam
+Här återfinns texter för marknadsföringssyften.
+
+### <a name="text-shorttext"></a>Kort text
+
+Går du i gymnasiet och undrar hur enkelt det egentligen är att utveckla en app?
+Kom till Lindholmen den 4 april och testa själv!
+
+### <a name="text-longertext"></a>Längre text2
+
+Hur bygger man en app med bara Post it-lappar och kreativitet? Studenterna bakom PostIT-app arrangerar för andra året i rad en heldag för gymnasieelever, där ni får testa på att utveckla appar. Den 4 april lär vi er tricken som får folk att verkligen vilja använda era appar, och sedan får ni skapa era alldeles egna. Hur då? Med Post it-lappar såklart, precis som proffsen! Kolla in vår hemsida så får du veta mer!
+
+### <a name="text-eventtext"></a>Vår event text
+Har du någonsin undrat hur man skapar en app? Det börjar med en idé, därefter handlar det oftast om att förmedla sin idé till arbetskamrater och användare.
+
+Vi lär er hur man går tillväga och vad man bör tänka på när man tar fram en app. Utan användningen av en dator, det krävs inte ens programmeringsförkunskaper.
+
+Detta är ett event för alla tjejer och killar som går på gymnasiet.
+
+Låter det intressant? Bjud in dina vänner och besök:
+www.postitapp.se
+
+Mer information finns på hemsidan.
+
+Post IT app arrangeras av studenter på Göteborgs Universitet!
+
+## Plansch (PDF)
+
+## <a name="plansch-a4-portrait-light"></a>Ljus A4 Plansch
 En A4 Plansch i färg. Skriv gärna ut och häng upp där det passar.
 
-[![h](https://raw.githubusercontent.com/PostITapp/material2016/master/thumbnails/planscha4.jpg)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/plansch/planscha4.pdf) (PDF)
+PDF:
+
+[![thumbnail for plansch](https://raw.githubusercontent.com/PostITapp/material2016/master/thumbnails/planscha4.jpg)](https://raw.githubusercontent.com/PostITapp/material2016/master/images/plansch/planschA4.pdf)
 
 ## Bilder
 
-### Logotyper
+## Logotyper
 ![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/logo/logowide1250x416.png)
 ![Wide logo black and white](https://raw.githubusercontent.com/PostITapp/material2016/master/images/logo/logowide1250x416bw.png)
 ![Square logo](https://raw.githubusercontent.com/PostITapp/material2016/master/images/logo/postitapp-trans-square.png)
