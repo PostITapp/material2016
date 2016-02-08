@@ -1,30 +1,38 @@
 # Post IT App, marknadsföringsmaterial
 
 Innehåll:
-- Länkar
+- [Länkar](#links)
 - Texter
- - Förklarande texter
-   - [Om dagen](#text-aboutday)
-   - [Om organisationen](#text-aboutorganisation)
- - Reklam
-   - [Kort text](#text-shorttext)
-   - [Lång text](#text-shorttext)
-   - [Vår event text](#text-eventtext)    
+  - Förklarande texter
+    - [Om dagen](#text-aboutday)
+    - [Om organisationen](#text-aboutorganisation)
+  - Reklam
+    - [Kort text](#text-shorttext)
+    - [Lång text](#text-shorttext)
+    - [Vår event text](#text-eventtext)    
 - Plansch
- - [A4 Plansch](#plansch-a4)
+  - [A4 Plansch](#plansch-a4)
 - Bilder
-- Logotyper
+  - [Marknadsföringsbilder](#pictures-advertisement)
+  - [Logotyper](#pictures-logo)
 
 ## Viktigt/Guide
-Nedan återfinns material för Post IT app 2016.
+Nedan återfinns material för Post IT app 2016. Ni kan ladda ner zip-fil med allt material i menyn längst upp på sidan.
+
+Vi vill nå ut med både digital och fysisk([plansch](#plansch-a4)) marknadsföring.
+
+Anpassa gärna vårt innehåll utefter våra mål och vår motivation.
 
 ##### Motivation
-Post IT app vill motivera och engagera ungdomar genom att introducera de till IT. Vi vill göra detta till elever som inte redan är insatta i IT. Genom att introducera de till ett koncept de är vana vid, appar, lär vi de hur idéer skapas och kommuniceras fram på ett enkelt och avskalat sätt.
+Post IT app vill motivera och engagera ungdomar genom att introducera de till IT. Vi vill göra detta med elever som inte redan är insatta i IT. Genom att introducera de till ett koncept de är vana vid, appar, lär vi de hur idéer skapas och kommuniceras fram på ett enkelt samt avskalat sätt.
 
-##### Vision
+
+##### Mål
 Post IT app strävar efter en jämn könsfördelning och jobbar extensivt för att uppnå detta.
 
-## Länkar
+Post IT app vill skapa förutsättningar och lärdomar för ungdomar.
+
+## <a name="links"></a>Länkar
 
 ##### Eventsida
 http://www.postitapp.se
@@ -44,7 +52,7 @@ Nedan återfinns texter för Post IT app eventet.
 ### Förklarande texter
 Här finns texter som har en förklarande disposition
 
-#### <a name="text-aboutday"></a> Om dagen
+#### <a name="text-aboutday"></a>Om dagen
 
 Post IT app är en praktisk workshop för gymnasietjejer och killar i Göteborg. Eleverna får lära sig hur man skapar idéer som tilltalar en specifik användare och hur man sedan kommunicerar detta till andra i form av en pappersprototyp.
 
@@ -89,7 +97,11 @@ PDF:
 
 ## Bilder
 
-## Logotyper
+#### <a name="pictures-advertisement"></a>Marknadsföringsbilder
+
+#### <a name="pictures-logo"></a>Logotyper
+
 ![Wide logo color](https://raw.githubusercontent.com/PostITapp/material2016/master/images/logo/logowide1250x416.png)
 ![Wide logo black and white](https://raw.githubusercontent.com/PostITapp/material2016/master/images/logo/logowide1250x416bw.png)
+![Wide logo yellow outline](https://raw.githubusercontent.com/PostITapp/material2016/master/images/logo/logowide1250x416yo.png)
 ![Square logo](https://raw.githubusercontent.com/PostITapp/material2016/master/images/logo/postitapp-trans-square.png)
