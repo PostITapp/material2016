@@ -3,8 +3,8 @@
 Innehåll:
 - [Länkar](#länkar)
 - Stil
-  - [Typsnitt logga](Typsnitt logga)
-  - [Typsnitt brödtext](Typsnitt brödtext)
+  - [Typsnitt logga](#typsnitt-logga)
+  - [Typsnitt brödtext](#typsnitt-brödtext)
   - [Namn](#namn)
 - Texter
   - Förklarande texter
