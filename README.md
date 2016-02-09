@@ -2,6 +2,11 @@
 
 Innehåll:
 - [Länkar](#länkar)
+- [Stil](#Stil)
+  - [Typsnitt logga](Typsnitt logga)
+  - [Typsnitt brödtext](Typsnitt brödtext)
+  - [Namn](#namn)
+
 - Texter
   - Förklarande texter
     - [Om dagen](#om-dagen)
@@ -53,6 +58,13 @@ http://2015.postitapp.se/
 
 http://2015.postitapp.se/summary.html
 
+## Stil
+##### Namn
+Post IT app
+##### Typsnitt logga
+[Gloria Hallelujah](https://www.google.com/fonts/specimen/Gloria+Hallelujah)
+##### Typsnitt brödtext
+[Raleway Extra-thin](https://www.google.com/fonts/specimen/Raleway)
 
 ## Texter
 Nedan återfinns texter för Post IT app eventet.
