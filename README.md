@@ -2,11 +2,10 @@
 
 Innehåll:
 - [Länkar](#länkar)
-- [Stil](#Stil)
+- Stil
   - [Typsnitt logga](Typsnitt logga)
   - [Typsnitt brödtext](Typsnitt brödtext)
   - [Namn](#namn)
-
 - Texter
   - Förklarande texter
     - [Om dagen](#om-dagen)
