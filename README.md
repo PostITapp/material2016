@@ -38,12 +38,15 @@ Post IT app ska vara enkelt och tillgängligt
 
 ## Länkar
 
-##### Eventsida
-http://www.postitapp.se
-##### Facebooksida
-https://www.facebook.com/postitapp
-##### Facebookevent
+Vi vill främst ha genomströmning i Facebook-eventet, men hemsidan går lika bra 
+
+##### 1. Facebookevent
 https://www.facebook.com/events/505927936198733/
+
+##### 2. Eventsida
+http://www.postitapp.se
+##### 3. Facebooksida
+https://www.facebook.com/postitapp
 
 ##### (LÄNKA INTE) (INTE TILLÅTET ATT ANVÄNDA MATERIAL) Gammal sida
 http://2015.postitapp.se/
