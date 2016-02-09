@@ -1,7 +1,7 @@
 # Post IT App, marknadsföringsmaterial
 
 Innehåll:
-- [Länkar](#links)
+- [Länkar](#länkar)
 - Texter
   - Förklarande texter
     - [Om dagen](#om-dagen)
