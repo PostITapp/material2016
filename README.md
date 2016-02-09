@@ -38,7 +38,7 @@ Post IT app ska vara enkelt och tillgängligt
 
 ## Länkar
 
-Vi vill främst ha genomströmning i Facebook-eventet, men hemsidan går lika bra 
+Vi vill främst ha genomströmning i Facebook-eventet, men hemsidan går lika bra
 
 ##### 1. Facebookevent
 https://www.facebook.com/events/505927936198733/
