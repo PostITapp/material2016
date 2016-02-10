@@ -12,6 +12,7 @@ Innehåll:
     - [Om organisationen](#om-organisationen)
   - Reklam
     - [Kort text](#kort-text)
+    - [Kort text2](#kort-text2)
     - [Lång text](#längre-text)
     - [Vår event text](#vår-event-text)    
 - Plansch
@@ -86,6 +87,11 @@ Här återfinns texter för marknadsföringssyften.
 
 Går du i gymnasiet och undrar hur enkelt det egentligen är att utveckla en app?
 Kom till Lindholmen den 11 april och testa själv!
+
+### Kort text2
+Är du en gymnasieelev? Vill du lära dig något riktigt intressant? Den 11 april arrangerar vi Post IT app! En heldag där du får möjligheten att lära dig hur du tar fram en app idé och hur du skapar enkla pappersprototyper som du kan använda för att testa dina idéer på vänner och användare!
+
+Låter det intressant, så klicka vidare till vårt Facebook event eller besök oss på www.posttapp.se
 
 ### Längre text
 
