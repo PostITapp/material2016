@@ -78,7 +78,7 @@ Post IT app är en praktisk workshop för gymnasietjejer och killar i Göteborg.
 
 #### Om organisationen
 
-Post IT app är ett studentinitiativ på Göteborgs Universitet.  Studentorganisationerna Sysomatic och Skip tar med hjälp av Datatjej ett event för gymnasieelever för att lyfta fram kreativitet och syftar till att skapa motivation.
+Post IT app är ett studentinitiativ på Göteborgs Universitet.  Studenter från organisationen Sysomatic tar med hjälp av Datatjej fram ett event för gymnasieelever för att lyfta fram kreativitet och syftar till att skapa motivation.
 
 ##  Reklam
 Här återfinns texter för marknadsföringssyften.
