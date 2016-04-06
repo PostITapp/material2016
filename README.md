@@ -29,7 +29,7 @@ Vi vill nå ut med både digital och fysisk([plansch](#plansch-a4)) marknadsför
 Anpassa gärna vårt innehåll utefter våra mål och vår motivation.
 
 ##### Motivation
-Post IT app vill motivera och engagera ungdomar genom att introducera de till IT. Vi vill göra detta med elever som inte redan är insatta i IT. Genom att introducera de till ett koncept de är vana vid, appar, lär vi de hur idéer skapas och kommuniceras fram på ett enkelt samt avskalat sätt.
+Post IT app vill motivera och engagera ungdomar genom att introducera de till IT och entreprenörskap genom att introducera de till ett koncept de är vana vid - appar - lär vi de hur idéer skapas och kommuniceras fram på ett enkelt samt avskalat sätt med hjälp av enkla pappersprototyper.
 
 
 ##### Mål
